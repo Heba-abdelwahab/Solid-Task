@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repo\\SolidTask\\TaskDay1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE64C56-B024-4B48-9DA4-5533610BA9DA}|TaskDay1\\TaskDay1.csproj|d:\\repo\\solidtask\\taskday1\\taskday1\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE64C56-B024-4B48-9DA4-5533610BA9DA}|TaskDay1\\TaskDay1.csproj|solutionrelative:taskday1\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE64C56-B024-4B48-9DA4-5533610BA9DA}|TaskDay1\\TaskDay1.csproj|d:\\repo\\solidtask\\taskday1\\taskday1\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE64C56-B024-4B48-9DA4-5533610BA9DA}|TaskDay1\\TaskDay1.csproj|solutionrelative:taskday1\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE64C56-B024-4B48-9DA4-5533610BA9DA}|TaskDay1\\TaskDay1.csproj|d:\\repo\\solidtask\\taskday1\\taskday1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE64C56-B024-4B48-9DA4-5533610BA9DA}|TaskDay1\\TaskDay1.csproj|solutionrelative:taskday1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "D:\\repo\\SolidTask\\TaskDay1\\TaskDay1\\Task2.cs",
+              "RelativeDocumentMoniker": "TaskDay1\\Task2.cs",
+              "ToolTip": "D:\\repo\\SolidTask\\TaskDay1\\TaskDay1\\Task2.cs",
+              "RelativeToolTip": "TaskDay1\\Task2.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv2AAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:00:51.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "D:\\repo\\SolidTask\\TaskDay1\\TaskDay1\\Task3.cs",
+              "RelativeDocumentMoniker": "TaskDay1\\Task3.cs",
+              "ToolTip": "D:\\repo\\SolidTask\\TaskDay1\\TaskDay1\\Task3.cs",
+              "RelativeToolTip": "TaskDay1\\Task3.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwGEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:38:39.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repo\\SolidTask\\TaskDay1\\TaskDay1\\Program.cs",
+              "RelativeDocumentMoniker": "TaskDay1\\Program.cs",
+              "ToolTip": "D:\\repo\\SolidTask\\TaskDay1\\TaskDay1\\Program.cs",
+              "RelativeToolTip": "TaskDay1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:36:08.49Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

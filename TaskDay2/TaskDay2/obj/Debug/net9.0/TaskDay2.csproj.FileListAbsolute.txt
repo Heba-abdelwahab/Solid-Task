@@ -1,0 +1,4 @@
+D:\repo\SolidTask\TaskDay2\TaskDay2\obj\Debug\net9.0\TaskDay2.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\SolidTask\TaskDay2\TaskDay2\obj\Debug\net9.0\TaskDay2.AssemblyInfoInputs.cache
+D:\repo\SolidTask\TaskDay2\TaskDay2\obj\Debug\net9.0\TaskDay2.AssemblyInfo.cs
+D:\repo\SolidTask\TaskDay2\TaskDay2\obj\Debug\net9.0\TaskDay2.csproj.CoreCompileInputs.cache
