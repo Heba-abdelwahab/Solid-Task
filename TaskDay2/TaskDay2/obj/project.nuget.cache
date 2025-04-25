@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "IPdBEVQ60e4=",
+  "dgSpecHash": "F2fXbZGKlS0=",
   "success": true,
-  "projectFilePath": "D:\\repo\\SolidTask\\TaskDay2\\TaskDay2\\TaskDay2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\repo\\Solid-Task\\TaskDay2\\TaskDay2\\TaskDay2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MF\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\MF\\.nuget\\packages\\castle.windsor\\6.0.0\\castle.windsor.6.0.0.nupkg.sha512",
+    "C:\\Users\\MF\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\MF\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\MF\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\MF\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\MF\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\MF\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\MF\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\MF\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
   "logs": []
 }
